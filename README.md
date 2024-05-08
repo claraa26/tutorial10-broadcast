@@ -19,3 +19,7 @@ kembali ke client yang terhubung pada server.
 
 Karna port diubah client yang berjalan di port sebelumnya tidak bisa mengirim pesan lagi. Sehingga dapat disimpulkan jika client
 ingin mengirim pesan harus dipastikan bahwa client-server harus terhubung pada port yang sama.
+
+### 2.3. Small changes. Add some information to client
+![](https://imgur.com/CqMPyeh.jpg)
+saya memodifikasi dari sis client sehingga dapat mengirimkan pesan terkait IP, port, dan pesannya juga
